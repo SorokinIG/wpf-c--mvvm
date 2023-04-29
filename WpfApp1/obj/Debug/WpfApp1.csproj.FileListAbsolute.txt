@@ -1,0 +1,32 @@
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Download\VS2019_0\project\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\projects\wpf mvvm\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
